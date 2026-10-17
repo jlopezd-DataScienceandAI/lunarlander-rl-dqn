@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos y artefactos generados
+*.keras
+*.h5
+
+# IDEs / SO
+.idea/
+.vscode/
+.DS_Store
